@@ -149,11 +149,6 @@ https://wander-and-feats.vercel.app/
 GitHub:
 https://github.com/pranjalinigam
 
-LinkedIn:
-(Add your LinkedIn profile here)
-
----
-
 ## 🔮 Future Enhancements
 
 - User Authentication
