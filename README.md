@@ -118,22 +118,6 @@ The website is optimized for:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-Example:
-
-```
-screenshots/
-│── home.png
-│── blogs.png
-│── darkmode.png
-│── contact.png
-```
-
----
-
 ## 🌐 Live Demo
 
 **Live Website:**
